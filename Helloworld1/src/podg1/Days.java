@@ -1,0 +1,5 @@
+package podg1;
+
+public enum Days {
+	MONDAY,TUESDAY,THIRDAY,WEDNESDAY,FRIDAY,SUNDAY,SATTURDAY;
+}
